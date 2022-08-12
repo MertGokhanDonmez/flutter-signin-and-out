@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984895849615",
+    "project_id": "flutter-kullanici-isleml-44136",
+    "storage_bucket": "flutter-kullanici-isleml-44136.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984895849615:android:867c6a1fdcb1443ceb1cfa",
+        "android_client_info": {
+          "package_name": "com.example.firebase_kullanici_islemleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984895849615-r3g8bpjuickesu50r2de5s1kncabigpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDnPj9GC1krlY65ndyn9RSFlSkNdZPhSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984895849615-r3g8bpjuickesu50r2de5s1kncabigpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
